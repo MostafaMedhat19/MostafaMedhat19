@@ -31,7 +31,7 @@
 
 ### 🧠 About Me
 - 👨‍💻 Explore my projects: [GitHub Portfolio](https://github.com/MostafaMedhat19)
-- 📫 Reach me at: **mostafamedhat577@gmail.com**
+- 📫 Reach me at: **mostafamedhat.0522019@gmail.com**
 - 📝 Check my resume: [View Resume](https://flowcv.com/resume/fsg5hgs1swr5)
 - 💬 Always open to tech discussions and collaborations
 
