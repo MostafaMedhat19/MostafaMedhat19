@@ -16,7 +16,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/mostafamedhat" target="_blank">
+  <a href="www.linkedin.com/in/mostafa-medhat-3b0159268" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/mostafa medhat" target="_blank">
