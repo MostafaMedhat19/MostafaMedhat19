@@ -49,18 +49,21 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafamedhat19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamedhat19&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamedhat19&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mostafamedhat19&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafamedhat19&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamedhat19&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💡 Fun Facts
