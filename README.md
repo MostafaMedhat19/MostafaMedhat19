@@ -1,16 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mostafa Medhat</h1>
-<h3 align="center">🚀 A Passionate Backend Developer | .NET Specialist | Tech Enthusiast from Egypt 🇪🇬</h3>
+<h3 align="center">🚀 Backend Developer | .NET Specialist | Tech Enthusiast from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamedhat19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  Highly motivated software developer specializing in backend development using <strong>.NET</strong> technologies.<br>
-  Proficient in crafting web, desktop, and mobile applications.<br>
-  Dedicated to continuous learning, clean coding, and solving real-world problems through software engineering.<br>
-  Seeking opportunities to contribute to impactful and innovative projects.
+  <a href="https://github.com/MostafaMedhat19">
+    <img alt=".NET Specialist" src="https://img.shields.io/badge/.NET-Specialist-purple?logo=dotnet&logoColor=white" />
+  </a>
+  <a href="https://github.com/MostafaMedhat19">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-Developer-blue?logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://github.com/MostafaMedhat19">
+    <img alt="Backend" src="https://img.shields.io/badge/Backend%20Developer-✅-green" />
+  </a>
 </p>
+
+---
+
+### 🧠 About Me
+
+- 👨‍💻 I'm a highly motivated software developer specializing in **.NET** technologies.
+- 🖥️ I build web, desktop, and mobile applications with clean code.
+- 💡 I enjoy solving real-world problems and learning new tools.
+- 🎯 Currently diving deeper into **Cloud Computing** and **System Design**.
+- 📫 Reach me at: **mostafamedhat.0522019@gmail.com**
+- 📄 [View My Resume](https://flowcv.com/resume/fsg5hgs1swr5)
 
 ---
 
@@ -30,15 +46,6 @@
 
 ---
 
-### 🧠 About Me
-
-- 👨‍💻 Explore my projects: [GitHub Portfolio](https://github.com/MostafaMedhat19)
-- 📫 Reach me at: **mostafamedhat.0522019@gmail.com**
-- 📝 Check my resume: [View Resume](https://flowcv.com/resume/fsg5hgs1swr5)
-- 💬 Always open to tech discussions and collaborations
-
----
-
 ### ⚙️ Languages, Frameworks & Tools
 
 <p align="center">
@@ -47,7 +54,7 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <table align="center">
   <tr>
@@ -64,23 +71,14 @@
     </td>
   </tr>
 </table>
+
 ---
-<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/MostafaMedhat19/MostafaMedhat19/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<p align="center">
-  <b>I'm Mostafa – a .NET backend developer and problem solver 🧠</b><br>
-  🔧 Passionate about building solutions and learning new tech.
-</p>
-
-### 💡 Fun Facts
-
-- 🚀 I’m always striving to build scalable and efficient backend systems.
-- 🔎 I love working with new technologies and solving complex problems.
-- 🎯 Currently expanding my knowledge in **Cloud Computing** and **System Design**.
 
 ---
 
