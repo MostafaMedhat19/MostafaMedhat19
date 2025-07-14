@@ -37,24 +37,48 @@
 
 ### 🔗 Connect with Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://facebook.com/mostafa.medhat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/mostafa.medhat" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
+<table>
+  <tr>
+    <!-- Left side: Image + Social Icons -->
+    <td align="left" valign="top" width="50%">
+   <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
+ <img width="675" height="564" alt="image" src="https://github.com/user-attachments/assets/6f6c99d7-d47a-44a1-a187-9a7e0df8cd8d" />
+
+</a>
+      <br/><br/>
+    </td>
+    <!-- Right side: About Description -->
+    <td align="left" valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I'm <strong>Mostafa Medhat</strong>, a passionate <strong>.NET Backend Developer</strong> who loves building efficient, scalable, and clean code for real-world applications.
+        <br/><br/>
+        Specialized in <code>C# / ASP.NET</code>, working across Web, APIs, and System Integration. 
+        I'm always looking to grow, learn new technologies, and collaborate on exciting projects.
+      </p>
+      <br/><br/>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+      </a>
+      <a href="https://facebook.com/mostafa.medhat" target="_blank">
+        <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="40" />
+      </a>
+      <a href="https://instagram.com/mostafa.medhat" target="_blank">
+        <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+      </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
 ### ⚙️ Languages, Frameworks & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,cpp,c,python,flutter,dart,js,html,css,mysql,git,figma,arduino" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cpp,c,python,flutter,dart,js,html,css,mysql,git,figma,arduino" alt="Tech Stack" />
 </p>
 
 ---
@@ -102,7 +126,5 @@
   <a href="https://github.com/MostafaMedhat19" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-%F0%9F%91%8D-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mostafamedhat-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%F0%9F%91%AB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
 </p>
