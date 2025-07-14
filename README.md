@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mostafa Medhat</h1>
-<h3 align="center">🚀 Backend Developer | .NET Specialist | Tech Enthusiast from Egypt 🇪🇬</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mostafa+Medhat;Backend+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mostafamedhat19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -73,6 +74,7 @@
 </table>
 
 ---
+
 
 ### 🐍 Contribution Snake
 
