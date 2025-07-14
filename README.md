@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/MostafaMedhat19/MostafaMedhat19/blob/main/assets/cover.jpg?raw=true" alt="cover" />
 </p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Mostafa+Medhat;Backend+Developer+%F0%9F%9A%80;" alt="Typing SVG" />
 </h1>
@@ -26,7 +27,7 @@
 ### 🧠 About Me
 
 - 👨‍💻 I'm a highly motivated software developer specializing in **.NET** technologies.
-- 🖥️ I build web, desktop, and mobile applications with clean code.
+- 🖥️ I build web, desktop, and mobile applications with clean code.                                     
 - 💡 I enjoy solving real-world problems and learning new tools.
 - 🎯 Currently diving deeper into **Cloud Computing** and **System Design**.
 - 📫 Reach me at: **mostafamedhat.0522019@gmail.com**
@@ -37,7 +38,7 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mostafa-medhat-3b0159268" target="_blank">
+  <a href="www.linkedin.com/in/mostafamedhat-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/mostafa.medhat" target="_blank">
@@ -77,7 +78,7 @@
 </table>
 
 ---
-
+              
 
 ### 🐍 Contribution Snake
 
@@ -87,11 +88,21 @@
 
 ---
 
+---
+
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+
 <p align="center">
-  🌟 <em>Thank you for visiting my profile! Feel free to connect or collaborate.</em> 🌟
+  🌟 <em>Thank you for visiting my profile! Feel free to connect or collaborate on exciting projects.</em> 🌟
 </p>
+
+<br/>
+
 <p align="center">
-  <a href="https://github.com/MostafaMedhat19">
-    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-%F0%9F%91%8D-blue?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MostafaMedhat19" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-%F0%9F%91%8D-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafamedhat-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%F0%9F%91%AB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
