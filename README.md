@@ -65,6 +65,16 @@
   </tr>
 </table>
 ---
+<h1 align="center">Welcome to My GitHub Profile! 👋</h1>
+
+<p align="center">
+  <img src="https://github.com/MostafaMedhat19/MostafaMedhat19/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <b>I'm Mostafa – a .NET backend developer and problem solver 🧠</b><br>
+  🔧 Passionate about building solutions and learning new tech.
+</p>
 
 ### 💡 Fun Facts
 
