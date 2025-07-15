@@ -153,7 +153,14 @@
 </p>
 
 ---
-
+<details>
+   <summary> Feedback</summary>
+   <div align="center">
+     <a href="https://teal-nasturtium-b5d1dd.netlify.app/">
+        <img width="480" height="566" alt="image" src="https://github.com/user-attachments/assets/3d572f8b-9da7-461e-8084-fc562dd14e3a" />
+     </a>
+   </div>
+</details>
 
 
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
