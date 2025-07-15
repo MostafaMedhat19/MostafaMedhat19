@@ -156,7 +156,7 @@
 <details>
    <summary> Feedback</summary>
    <div align="center">
-     <a href="https://teal-nasturtium-b5d1dd.netlify.app/">
+     <a href="https://grabify.link/YZA4V2">
         <img width="480" height="566" alt="image" src="https://github.com/user-attachments/assets/3d572f8b-9da7-461e-8084-fc562dd14e3a" />
      </a>
    </div>
