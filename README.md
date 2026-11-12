@@ -110,5 +110,5 @@
 
   <br /><br />
 
-  <img src="./assets/the-escape-footer.png" width="100%" alt="The Escape — Mostafa Medhat developer footer" />
+  <img src="./assets/thank-you-footer.png" width="100%" alt="Thank you — Mostafa's mascot escaping from the footer" />
 </div>
