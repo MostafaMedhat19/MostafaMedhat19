@@ -15,25 +15,20 @@
 
 ## `> profile --command-center`
 
-<table>
-  <tr>
-    <td width="58%" valign="middle">
-      <h3>Hey, I'm Mostafa 👨‍💻</h3>
-      <p>I'm a software developer specializing in <b>.NET backend development</b>. I enjoy turning real-world requirements into clean, maintainable, and scalable applications.</p>
-      <ul>
-        <li>🔭 Building robust web apps, APIs, desktop, and mobile solutions</li>
-        <li>⚡ Focused on C#, ASP.NET, databases, and system integration</li>
-        <li>🌱 Growing deeper in cloud computing and system design</li>
-        <li>🤝 Open to collaboration on useful, ambitious products</li>
-      </ul>
-    </td>
-    <td width="42%" align="center" valign="bottom">
-      <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-        <img src="./assets/linkedin-card.png" width="430" align="bottom" alt="Connect with Mostafa Medhat on LinkedIn" />
-      </a>
-    </td>
-  </tr>
-</table>
+### Hey, I'm Mostafa 👨‍💻
+
+I'm a software developer specializing in **.NET backend development**. I enjoy turning real-world requirements into clean, maintainable, and scalable applications.
+
+- 🔭 Building robust web apps, APIs, desktop, and mobile solutions
+- ⚡ Focused on C#, ASP.NET, databases, and system integration
+- 🌱 Growing deeper in cloud computing and system design
+- 🤝 Open to collaboration on useful, ambitious products
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
+    <img src="./assets/linkedin-card.png" width="720" alt="Connect with Mostafa Medhat on LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
 
