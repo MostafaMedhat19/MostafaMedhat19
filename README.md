@@ -22,7 +22,7 @@
 ## `> profile --command-center`
 
 <div align="center">
-  <img src="./assets/about-me-card.png" width="100%" alt="About Mostafa Medhat — Full Stack Software Developer specializing in ASP.NET Core, Angular, and SQL Server" />
+  <img src="./assets/about-me-transparent.png" width="100%" alt="About Mostafa Medhat — Full Stack Software Developer specializing in ASP.NET Core, Angular, and SQL Server" />
 </div>
 
 <div align="center">
