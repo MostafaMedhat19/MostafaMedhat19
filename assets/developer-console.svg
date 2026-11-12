@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Mostafa Medhat developer console</title>
+  <desc id="desc">Terminal-style GitHub profile dashboard with an ASCII mascot, profile data, GitHub statistics, languages, and technologies.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b10"/>
+      <stop offset="1" stop-color="#0b1119"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.34" stop-color="#2563eb"/>
+      <stop offset="0.64" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#a3e635"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#fff" stroke-opacity=".018"/>
+    </pattern>
+    <style>
+      .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,monospace}
+      .muted{fill:#64748b}.white{fill:#e6edf3}.cyan{fill:#22d3ee}.blue{fill:#60a5fa}.lime{fill:#a3e635}.amber{fill:#fbbf24}.violet{fill:#a78bfa}
+      .label{font-size:18px;font-weight:700}.value{font-size:18px}.tiny{font-size:14px}.panel{fill:url(#panel);stroke:#263241;stroke-width:1.5}
+    </style>
+  </defs>
+
+  <rect width="1200" height="650" rx="12" fill="#05080d"/>
+  <rect width="1200" height="650" rx="12" fill="url(#scan)"/>
+
+  <!-- ASCII mascot panel -->
+  <rect class="panel" x="12" y="12" width="400" height="410" rx="6"/>
+  <text class="mono lime tiny" x="24" y="34">+</text><text class="mono lime tiny" x="394" y="34">+</text>
+  <text class="mono cyan" font-size="16" opacity=".95">
+    <tspan x="52" y="72">          .-''''-.</tspan>
+    <tspan x="52" dy="20">       .-'  .--.  '-.</tspan>
+    <tspan x="52" dy="20">      /   /    \    \</tspan>
+    <tspan x="52" dy="20">     ;   |  ◉  ◉|    ;</tspan>
+    <tspan x="52" dy="20">     |   |   ▿  |    |</tspan>
+    <tspan x="52" dy="20">     ;    \  --/    ;</tspan>
+    <tspan x="52" dy="20">      \  .-`--'-.  /</tspan>
+    <tspan x="52" dy="20">    .--\/  &lt;/&gt;   \/--.</tspan>
+    <tspan x="52" dy="20">   /   /|  .NET  |\   \</tspan>
+    <tspan x="52" dy="20">  /___/ |        | \___\</tspan>
+    <tspan x="52" dy="20">       /|  API   |\</tspan>
+    <tspan x="52" dy="20">      /_|________|_\</tspan>
+    <tspan x="52" dy="20">        /  / \  \</tspan>
+    <tspan x="52" dy="20">       /__/   \__\</tspan>
+  </text>
+  <text class="mono lime" x="206" y="385" text-anchor="middle" font-size="15" filter="url(#glow)">● SYSTEM ONLINE</text>
+
+  <!-- Identity and stats panel -->
+  <rect class="panel" x="426" y="12" width="762" height="410" rx="6"/>
+  <text class="mono lime tiny" x="438" y="34">+</text><text class="mono lime tiny" x="1170" y="34">+</text>
+  <text class="mono blue" x="466" y="64" font-size="20">MostafaMedhat19@github</text>
+  <text class="mono muted" x="466" y="89" font-size="14">────────────────────────────────────────────────────────</text>
+
+  <text class="mono amber label" x="466" y="124">Role:</text><text class="mono white value" x="670" y="124">Full Stack Developer</text>
+  <text class="mono amber label" x="466" y="158">Company:</text><text class="mono white value" x="670" y="158">El Sewedy Electrometer Group</text>
+  <text class="mono amber label" x="466" y="192">Stack:</text><text class="mono white value" x="670" y="192">ASP.NET Core · Angular · SQL Server</text>
+  <text class="mono amber label" x="466" y="226">Joined:</text><text class="mono white value" x="670" y="226">November 2023</text>
+  <text class="mono amber label" x="466" y="260">Focus:</text><text class="mono white value" x="670" y="260">Scalable APIs · Clean Architecture</text>
+
+  <text class="mono blue" x="466" y="302" font-size="17">─ GitHub Stats ─────────────────────────────────────</text>
+  <text class="mono amber label" x="466" y="338">Repos:</text><text class="mono cyan value" x="580" y="338">32</text>
+  <text class="mono amber label" x="680" y="338">Stars:</text><text class="mono cyan value" x="804" y="338">13</text>
+  <text class="mono amber label" x="900" y="338">Followers:</text><text class="mono cyan value" x="1060" y="338">5</text>
+  <text class="mono amber label" x="466" y="376">Contributions:</text><text class="mono cyan value" x="640" y="376">512 / year</text>
+  <text class="mono amber label" x="820" y="376">Following:</text><text class="mono cyan value" x="964" y="376">3</text>
+
+  <!-- Languages panel -->
+  <rect class="panel" x="12" y="436" width="720" height="202" rx="6"/>
+  <text class="mono lime tiny" x="24" y="458">+</text><text class="mono lime tiny" x="714" y="458">+</text>
+  <text class="mono muted" x="48" y="478" font-size="16">[ TOP LANGUAGES ]</text>
+  <rect x="48" y="504" width="638" height="12" rx="6" fill="#172033"/>
+  <rect x="48" y="504" width="214" height="12" rx="6" fill="#2563eb"/>
+  <rect x="262" y="504" width="191" height="12" fill="#22d3ee"/>
+  <rect x="453" y="504" width="46" height="12" fill="#8b5cf6"/>
+  <rect x="499" y="504" width="46" height="12" fill="#fbbf24"/>
+  <rect x="545" y="504" width="45" height="12" fill="#a3e635"/>
+  <rect x="590" y="504" width="96" height="12" rx="6" fill="#334155"/>
+  <circle cx="52" cy="552" r="6" fill="#2563eb"/><text class="mono white" x="68" y="558" font-size="16">C# 33%</text>
+  <circle cx="186" cy="552" r="6" fill="#22d3ee"/><text class="mono white" x="202" y="558" font-size="16">C++ 30%</text>
+  <circle cx="342" cy="552" r="6" fill="#8b5cf6"/><text class="mono white" x="358" y="558" font-size="16">HTML 7%</text>
+  <circle cx="498" cy="552" r="6" fill="#fbbf24"/><text class="mono white" x="514" y="558" font-size="16">Dart 7%</text>
+  <circle cx="52" cy="592" r="6" fill="#a3e635"/><text class="mono white" x="68" y="598" font-size="16">Python 7%</text>
+  <circle cx="186" cy="592" r="6" fill="#334155"/><text class="mono white" x="202" y="598" font-size="16">Other 16%</text>
+
+  <!-- Technologies panel -->
+  <rect class="panel" x="746" y="436" width="442" height="202" rx="6"/>
+  <text class="mono lime tiny" x="758" y="458">+</text><text class="mono lime tiny" x="1170" y="458">+</text>
+  <text class="mono muted" x="782" y="478" font-size="16">[ TECHNOLOGIES &amp; SKILLS ]</text>
+  <g class="mono" font-weight="700" text-anchor="middle">
+    <g transform="translate(786 500)"><rect width="108" height="48" rx="12" fill="#512bd4"/><text class="white" x="54" y="31" font-size="18">.NET</text></g>
+    <g transform="translate(906 500)"><rect width="108" height="48" rx="12" fill="#dd0031"/><text class="white" x="54" y="31" font-size="18">Angular</text></g>
+    <g transform="translate(1026 500)"><rect width="108" height="48" rx="12" fill="#3178c6"/><text class="white" x="54" y="31" font-size="18">TS</text></g>
+    <g transform="translate(786 562)"><rect width="108" height="48" rx="12" fill="#cc2927"/><text class="white" x="54" y="31" font-size="18">SQL</text></g>
+    <g transform="translate(906 562)"><rect width="108" height="48" rx="12" fill="#2496ed"/><text class="white" x="54" y="31" font-size="18">Docker</text></g>
+    <g transform="translate(1026 562)"><rect width="108" height="48" rx="12" fill="#f05032"/><text class="white" x="54" y="31" font-size="18">Git</text></g>
+  </g>
+</svg>

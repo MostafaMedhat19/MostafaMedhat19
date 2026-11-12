@@ -35,6 +35,12 @@
   </tr>
 </table>
 
+## `> developer --console`
+
+<div align="center">
+  <img src="./assets/developer-console.svg" width="100%" alt="Mostafa Medhat terminal-style developer dashboard" />
+</div>
+
 ## `> tech --stack`
 
 <div align="center">
