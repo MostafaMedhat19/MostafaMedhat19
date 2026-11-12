@@ -14,8 +14,84 @@
 
 ## `> profile --command-center`
 
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h3>Hey, I'm Mostafa 👨‍💻</h3>
+      <p>I'm a software developer specializing in <b>.NET backend development</b>. I enjoy turning real-world requirements into clean, maintainable, and scalable applications.</p>
+      <ul>
+        <li>🔭 Building robust web apps, APIs, desktop, and mobile solutions</li>
+        <li>⚡ Focused on C#, ASP.NET, databases, and system integration</li>
+        <li>🌱 Growing deeper in cloud computing and system design</li>
+        <li>🤝 Open to collaboration on useful, ambitious products</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="bottom">
+      <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
+        <img src="./assets/linkedin-card.png" width="430" align="bottom" alt="Connect with Mostafa Medhat on LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="./assets/profile-command-center.svg" width="100%" alt="Mostafa Medhat unified developer command center" />
+
+  <h3>Full Stack Core</h3>
+
+  <img src="./assets/angular-3d.png" width="145" alt="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/dotnet-3d.png" width="145" alt=".NET" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/sqlserver-3d.png" width="145" alt="SQL Server" />
+
+</div>
+
+<details>
+  <summary><b>⚙️ Backend & Databases</b></summary>
+  <br />
+  <div align="center">
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" alt="Firebase" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🎨 Frontend & Mobile</b></summary>
+  <br />
+  <div align="center">
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg" alt="Flutter" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg" alt="Dart" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🛠️ Tools & Workflow</b></summary>
+  <br />
+  <div align="center">
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" alt="Visual Studio" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" />
+    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg" alt="Arduino" />
+  </div>
+</details>
+
+<div align="center">
+
+  <h3>GitHub Insights</h3>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaMedhat19&theme=tokyonight" alt="Mostafa's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=MostafaMedhat19&hide_border=true&background=0D1117&stroke=2563EB&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Mostafa's contribution streak" />
+  <br />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaMedhat19&theme=tokyonight" alt="Most used languages" />
+
 </div>
 
 ## `> explore --my-journey`
