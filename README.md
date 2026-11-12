@@ -111,10 +111,13 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
 ## `> connect --with-me`
 
 <div align="center">
+
+  <h3>LET'S BUILD SOMETHING GREAT</h3>
   <p>Have an idea, an opportunity, or just want to talk tech? Let's connect.</p>
-  <a href="https://www.linkedin.com/in/mostafamedhat-dev"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mostafamedhat.0522019@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/MostafaMedhat19"><img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+  <a href="https://www.linkedin.com/in/mostafamedhat-dev"><img src="./assets/contact-linkedin.svg" width="230" alt="Connect with Mostafa Medhat on LinkedIn" /></a>&nbsp;
+  <a href="mailto:mostafamedhat.0522019@gmail.com"><img src="./assets/contact-email.svg" width="230" alt="Send an email to Mostafa Medhat" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19"><img src="./assets/contact-github.svg" width="230" alt="Visit Mostafa Medhat on GitHub" /></a>
 
   <br /><br />
 
