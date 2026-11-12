@@ -40,26 +40,9 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
 
 </div>
 
-<details>
-  <summary><b>⚙️ Backend & Databases</b></summary>
-  <div align="center">
-    <img src="./assets/backend-databases-3d.png" width="82%" alt="Premium 3D icons for C#, Python, Java, C++, MySQL, and Firebase" />
-  </div>
-</details>
-
-<details>
-  <summary><b>🎨 Frontend & Mobile</b></summary>
-  <div align="center">
-    <img src="./assets/frontend-mobile-3d.png" width="82%" alt="Premium 3D icons for JavaScript, HTML5, CSS3, Flutter, and Dart" />
-  </div>
-</details>
-
-<details>
-  <summary><b>🛠️ Tools & Workflow</b></summary>
-  <div align="center">
-    <img src="./assets/tools-workflow-3d.png" width="82%" alt="Premium 3D icons for Docker, Git, GitHub, Visual Studio, VS Code, Figma, and Arduino" />
-  </div>
-</details>
+<div align="center">
+  <img src="./assets/technology-skills-grid-3d.png" width="82%" alt="Premium 3D technology grid featuring C#, Python, Java, C++, MySQL, Firebase, JavaScript, HTML5, CSS3, Flutter, Dart, Docker, Git, GitHub, Visual Studio, VS Code, Figma, and Arduino" />
+</div>
 
 <div align="center">
 
