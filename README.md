@@ -5,9 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=58&lines=Hi%2C+I'm+Mostafa+Medhat+%F0%9F%91%8B;.NET+Backend+Developer;Building+clean%2C+scalable+APIs;Turning+ideas+into+reliable+software" alt="Animated introduction" />
 
   <p>
-    <a href="https://github.com/MostafaMedhat19"><img src="https://img.shields.io/github/followers/MostafaMedhat19?label=Followers&style=for-the-badge&logo=github&color=2563EB&labelColor=0B1120" alt="GitHub followers" /></a>
-    <img src="https://komarev.com/ghpvc/?username=MostafaMedhat19&label=Profile+views&style=for-the-badge&color=06B6D4" alt="Profile views" />
-    <a href="https://flowcv.com/resume/fsg5hgs1swr5"><img src="https://img.shields.io/badge/Resume-View-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white" alt="View resume" /></a>
+    <a href="https://github.com/MostafaMedhat19"><img height="34" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/mostafamedhat-dev"><img height="34" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://mostafa-portfolio-nine.vercel.app"><img height="34" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg" alt="Portfolio" /></a>&nbsp;
+    <a href="https://flowcv.com/resume/fsg5hgs1swr5"><img height="34" src="./assets/resume-badge.svg" alt="Resume" /></a>
   </p>
 
 </div>
