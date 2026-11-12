@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./assets/about-me-transparent.png" width="100%" alt="About Mostafa Medhat — Full Stack Software Developer specializing in ASP.NET Core, Angular, and SQL Server" />
+</div>
+
+<div align="center">
 
   <img src="./assets/profile-banner-fullstack.png" width="100%" alt="Mostafa Medhat — Full Stack Developer" />
 
@@ -14,15 +18,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/MostafaMedhat19#user-content--profile---command-center"><img src="./assets/nav-profile.svg" height="44" alt="Navigate to Profile Command Center" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19#user-content--connect---with-me"><img src="./assets/nav-connect.svg" height="44" alt="Navigate to Connect With Me" /></a>&nbsp;
   <a href="https://github.com/MostafaMedhat19#user-content--explore---my-journey"><img src="./assets/nav-explore.svg" height="44" alt="Navigate to Explore My Journey" /></a>&nbsp;
   <a href="https://github.com/MostafaMedhat19#user-content--contributions---animate"><img src="./assets/nav-contributions.svg" height="44" alt="Navigate to Animated Contributions" /></a>
-</div>
-
-## `> profile --command-center`
-
-<div align="center">
-  <img src="./assets/about-me-transparent.png" width="100%" alt="About Mostafa Medhat — Full Stack Software Developer specializing in ASP.NET Core, Angular, and SQL Server" />
 </div>
 
 <div align="center">
