@@ -15,7 +15,7 @@
 ## `> profile --command-center`
 
 <div align="center">
-  <img src="./assets/developer-console.svg" width="100%" alt="Mostafa Medhat unified developer command center" />
+  <img src="./assets/profile-command-center.svg" width="100%" alt="Mostafa Medhat unified developer command center" />
 </div>
 
 ## `> explore --my-journey`
