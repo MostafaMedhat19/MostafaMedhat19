@@ -27,9 +27,9 @@
         <li>💬 Ask me about .NET, backend architecture, or clean code</li>
       </ul>
     </td>
-    <td width="42%" align="center" valign="middle">
+    <td width="42%" align="center" valign="bottom">
       <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-        <img src="./assets/linkedin-card.png" width="430" alt="Connect with Mostafa Medhat on LinkedIn" />
+        <img src="./assets/linkedin-card.png" width="430" align="bottom" alt="Connect with Mostafa Medhat on LinkedIn" />
       </a>
     </td>
   </tr>
