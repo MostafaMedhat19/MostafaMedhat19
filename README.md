@@ -53,6 +53,12 @@
 
 </div>
 
+## `> explore --my-journey`
+
+<div align="center">
+  <img src="./assets/profile-sections-cards.png" width="100%" alt="Full Stack Development, Backend Engineering, Frontend Development, Featured Projects, Work Experience, and Resume" />
+</div>
+
 ## `> github --insights`
 
 <div align="center">
