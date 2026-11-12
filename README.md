@@ -44,12 +44,7 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
   <summary><b>⚙️ Backend & Databases</b></summary>
   <br />
   <div align="center">
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp2.svg" alt="C#" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg" alt="MySQL" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Firebase/firebase2.svg" alt="Firebase" />
+    <img src="./assets/backend-databases-3d.png" width="100%" alt="Premium 3D icons for C#, Python, Java, C++, MySQL, and Firebase" />
   </div>
 </details>
 
@@ -57,11 +52,7 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
   <summary><b>🎨 Frontend & Mobile</b></summary>
   <br />
   <div align="center">
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg" alt="Flutter" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg" alt="Dart" />
+    <img src="./assets/frontend-mobile-3d.png" width="100%" alt="Premium 3D icons for JavaScript, HTML5, CSS3, Flutter, and Dart" />
   </div>
 </details>
 
@@ -69,13 +60,7 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
   <summary><b>🛠️ Tools & Workflow</b></summary>
   <br />
   <div align="center">
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg" alt="Visual Studio" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="Visual Studio Code" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" />
-    <img height="30" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arduino/arduino2.svg" alt="Arduino" />
+    <img src="./assets/tools-workflow-3d.png" width="100%" alt="Premium 3D icons for Docker, Git, GitHub, Visual Studio, VS Code, Figma, and Arduino" />
   </div>
 </details>
 
