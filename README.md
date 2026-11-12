@@ -41,36 +41,37 @@
 
 ### Full Stack
 
-<table>
-  <tr>
-    <td align="center" width="180">
-      <img src="./assets/angular-3d.png" width="130" alt="Angular" /><br />
-      <b>Angular</b>
-    </td>
-    <td align="center" width="180">
-      <img src="./assets/dotnet-3d.png" width="130" alt=".NET" /><br />
-      <b>.NET</b>
-    </td>
-    <td align="center" width="180">
-      <img src="./assets/sqlserver-3d.png" width="130" alt="SQL Server" /><br />
-      <b>SQL Server</b>
-    </td>
-  </tr>
-</table>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=cs,python,java,cpp,mysql,firebase&theme=dark" alt="Backend and database technologies" />
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=js,html,css,flutter,dart&theme=dark" alt="Frontend and mobile technologies" />
-
-### Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,figma,arduino&theme=dark" alt="Development tools" />
+<p>
+  <img src="./assets/angular-3d.png" width="145" alt="Angular" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/dotnet-3d.png" width="145" alt=".NET" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/sqlserver-3d.png" width="145" alt="SQL Server" />
+</p>
 
 </div>
+
+<details>
+  <summary><b>⚙️ Backend & Databases</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=cs,python,java,cpp,mysql,firebase&theme=dark" alt="Backend and database technologies" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🎨 Frontend & Mobile</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=js,html,css,flutter,dart&theme=dark" alt="Frontend and mobile technologies" />
+  </div>
+</details>
+
+<details>
+  <summary><b>🛠️ Tools & Workflow</b></summary>
+  <br />
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode,figma,arduino&theme=dark" alt="Development tools" />
+  </div>
+</details>
 
 ## `> explore --my-journey`
 
