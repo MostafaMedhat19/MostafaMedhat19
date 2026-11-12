@@ -34,33 +34,30 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
 
   <h3>Full Stack Core</h3>
 
-  <img src="./assets/angular-3d.png" width="145" alt="Angular" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/dotnet-3d.png" width="145" alt=".NET" />&nbsp;&nbsp;&nbsp;
-  <img src="./assets/sqlserver-3d.png" width="145" alt="SQL Server" />
+  <img src="./assets/angular-3d.png" width="110" alt="Angular" />&nbsp;&nbsp;
+  <img src="./assets/dotnet-3d.png" width="110" alt=".NET" />&nbsp;&nbsp;
+  <img src="./assets/sqlserver-3d.png" width="110" alt="SQL Server" />
 
 </div>
 
 <details>
   <summary><b>⚙️ Backend & Databases</b></summary>
-  <br />
   <div align="center">
-    <img src="./assets/backend-databases-3d.png" width="100%" alt="Premium 3D icons for C#, Python, Java, C++, MySQL, and Firebase" />
+    <img src="./assets/backend-databases-3d.png" width="82%" alt="Premium 3D icons for C#, Python, Java, C++, MySQL, and Firebase" />
   </div>
 </details>
 
 <details>
   <summary><b>🎨 Frontend & Mobile</b></summary>
-  <br />
   <div align="center">
-    <img src="./assets/frontend-mobile-3d.png" width="100%" alt="Premium 3D icons for JavaScript, HTML5, CSS3, Flutter, and Dart" />
+    <img src="./assets/frontend-mobile-3d.png" width="82%" alt="Premium 3D icons for JavaScript, HTML5, CSS3, Flutter, and Dart" />
   </div>
 </details>
 
 <details>
   <summary><b>🛠️ Tools & Workflow</b></summary>
-  <br />
   <div align="center">
-    <img src="./assets/tools-workflow-3d.png" width="100%" alt="Premium 3D icons for Docker, Git, GitHub, Visual Studio, VS Code, Figma, and Arduino" />
+    <img src="./assets/tools-workflow-3d.png" width="82%" alt="Premium 3D icons for Docker, Git, GitHub, Visual Studio, VS Code, Figma, and Arduino" />
   </div>
 </details>
 
