@@ -6,17 +6,17 @@
       <stop stop-color="#202126"/><stop offset="1" stop-color="#0B0B0D"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#FF4D5A"/><stop offset="1" stop-color="#D90429"/>
+      <stop stop-color="#22D3EE"/><stop offset="1" stop-color="#2563EB"/>
     </linearGradient>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3"/></filter>
   </defs>
   <rect x="1" y="1" width="228" height="62" rx="16" fill="url(#bg)" stroke="#3B3D44"/>
   <path d="M16 1H214A15 15 0 0 1 229 16" stroke="#696B73" stroke-opacity=".45"/>
-  <rect x="12" y="12" width="40" height="40" rx="12" fill="#E5092F" opacity=".22" filter="url(#glow)"/>
+  <rect x="12" y="12" width="40" height="40" rx="12" fill="#0EA5E9" opacity=".28" filter="url(#glow)"/>
   <rect x="12" y="12" width="40" height="40" rx="12" fill="url(#accent)"/>
   <path fill-rule="evenodd" clip-rule="evenodd" d="M32 20.2a12.2 12.2 0 0 0-3.9 23.8c.6.1.8-.3.8-.6v-2.3c-3.4.7-4.1-1.4-4.1-1.4-.5-1.4-1.3-1.8-1.3-1.8-1.1-.7.1-.7.1-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-6a4.7 4.7 0 0 1 1.2-3.3 4.4 4.4 0 0 1 .1-3.3s1-.3 3.4 1.3a11.8 11.8 0 0 1 6.2 0c2.4-1.6 3.4-1.3 3.4-1.3a4.4 4.4 0 0 1 .1 3.3 4.7 4.7 0 0 1 1.2 3.3c0 4.7-2.8 5.7-5.5 6 .4.4.8 1.1.8 2.2v3.4c0 .3.2.7.8.6A12.2 12.2 0 0 0 32 20.2Z" fill="white"/>
   <text x="64" y="27" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing=".8">GITHUB</text>
   <text x="64" y="44" fill="#A9ABB3" font-family="Segoe UI, Arial, sans-serif" font-size="10.5">Explore my work</text>
   <circle cx="207" cy="32" r="11" fill="#FFFFFF" fill-opacity=".08" stroke="#FFFFFF" stroke-opacity=".12"/>
-  <path d="M203 36l8-8m-6 0h6v6" stroke="#FF4D5A" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M203 36l8-8m-6 0h6v6" stroke="#22D3EE" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
