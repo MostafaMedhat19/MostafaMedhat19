@@ -14,9 +14,9 @@
 </div>
 
 <div align="center">
-  <a href="#-profile---command-center"><img src="./assets/nav-profile.svg" height="44" alt="Navigate to Profile Command Center" /></a>&nbsp;
-  <a href="#-explore---my-journey"><img src="./assets/nav-explore.svg" height="44" alt="Navigate to Explore My Journey" /></a>&nbsp;
-  <a href="#-contributions---animate"><img src="./assets/nav-contributions.svg" height="44" alt="Navigate to Animated Contributions" /></a>
+  <a href="https://github.com/MostafaMedhat19#user-content--profile---command-center"><img src="./assets/nav-profile.svg" height="44" alt="Navigate to Profile Command Center" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19#user-content--explore---my-journey"><img src="./assets/nav-explore.svg" height="44" alt="Navigate to Explore My Journey" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19#user-content--contributions---animate"><img src="./assets/nav-contributions.svg" height="44" alt="Navigate to Animated Contributions" /></a>
 </div>
 
 ## `> profile --command-center`
