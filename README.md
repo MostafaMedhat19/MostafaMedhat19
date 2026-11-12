@@ -85,12 +85,14 @@
 
 <div align="center">
 
-  <h3>GitHub Insights</h3>
+  <h3>GitHub Analytics</h3>
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaMedhat19&theme=tokyonight" alt="Mostafa's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=MostafaMedhat19&hide_border=true&background=0D1117&stroke=2563EB&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Mostafa's contribution streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's GitHub activity overview" />
+
   <br />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaMedhat19&theme=tokyonight" alt="Most used languages" />
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's most used languages" />
 
 </div>
 
