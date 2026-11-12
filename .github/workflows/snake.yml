@@ -1,6 +1,9 @@
 name: Generate Snake Game
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *" # يوميًا
   workflow_dispatch:
@@ -17,8 +20,8 @@ jobs:
         with:
           github_user_name: MostafaMedhat19
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%232563EB&color_dots=%23EBF8FF,%23BAE6FD,%2367E8F9,%2322D3EE,%238B5CF6
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2322D3EE&color_dots=%230D1117,%231E3A8A,%232563EB,%2306B6D4,%238B5CF6
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
