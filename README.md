@@ -15,20 +15,9 @@
 
 ## `> profile --command-center`
 
-### Hey, I'm Mostafa 👨‍💻
-
-I'm a software developer specializing in **.NET backend development**. I enjoy turning real-world requirements into clean, maintainable, and scalable applications.
-
-- 🔭 Building robust web apps, APIs, desktop, and mobile solutions
-- ⚡ Focused on C#, ASP.NET, databases, and system integration
-- 🌱 Growing deeper in cloud computing and system design
-- 🤝 Open to collaboration on useful, ambitious products
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-    <img src="./assets/linkedin-card.png" width="620" alt="Connect with Mostafa Medhat on LinkedIn" />
-  </a>
-</p>
+<div align="center">
+  <img src="./assets/about-me-card.png" width="100%" alt="About Mostafa Medhat — Full Stack Software Developer specializing in ASP.NET Core, Angular, and SQL Server" />
+</div>
 
 <div align="center">
 
