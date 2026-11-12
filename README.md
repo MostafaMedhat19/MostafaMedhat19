@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2600&pause=850&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=58&lines=Hi%2C+I'm+Mostafa+Medhat+%F0%9F%91%8B;Full+Stack+Developer;Building+clean%2C+scalable+applications;Turning+ideas+into+reliable+software" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2600&pause=850&color=0032F1&center=true&vCenter=true&repeat=true&width=760&height=58&lines=Hi%2C+I'm+Mostafa+Medhat+%F0%9F%91%8B;Full+Stack+Developer;Building+clean%2C+scalable+applications;Turning+ideas+into+reliable+software" alt="Animated introduction" />
 
   <img src="./assets/profile-banner-fullstack.png" width="100%" alt="Mostafa Medhat — Full Stack Developer" />
 
