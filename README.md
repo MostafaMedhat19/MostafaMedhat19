@@ -39,9 +39,28 @@
 
 <div align="center">
 
+### Full Stack
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="./assets/angular-3d.png" width="130" alt="Angular" /><br />
+      <b>Angular</b>
+    </td>
+    <td align="center" width="180">
+      <img src="./assets/dotnet-3d.png" width="130" alt=".NET" /><br />
+      <b>.NET</b>
+    </td>
+    <td align="center" width="180">
+      <img src="./assets/sqlserver-3d.png" width="130" alt="SQL Server" /><br />
+      <b>SQL Server</b>
+    </td>
+  </tr>
+</table>
+
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,cpp,mysql,firebase&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=cs,python,java,cpp,mysql,firebase&theme=dark" alt="Backend and database technologies" />
 
 ### Frontend & Mobile
 
