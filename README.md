@@ -110,5 +110,5 @@
 
   <br /><br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:8B5CF6&height=110&section=footer" width="100%" alt="Colorful footer wave" />
+  <img src="./assets/the-escape-footer.png" width="100%" alt="The Escape — Mostafa Medhat developer footer" />
 </div>
