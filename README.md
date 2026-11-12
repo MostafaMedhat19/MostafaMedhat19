@@ -28,7 +28,9 @@
       </ul>
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="./assets/developer-mascot.png" width="270" alt="Mostafa's developer mascot" />
+      <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
+        <img src="./assets/linkedin-card.png" width="360" alt="Connect with Mostafa Medhat on LinkedIn" />
+      </a>
     </td>
   </tr>
 </table>
