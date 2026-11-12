@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
   <title id="title">Mostafa Medhat developer console</title>
   <desc id="desc">Terminal-style GitHub profile dashboard with an ASCII mascot, profile data, GitHub statistics, languages, and technologies.</desc>
   <defs>
@@ -26,8 +26,28 @@
     </style>
   </defs>
 
-  <rect width="1200" height="650" rx="12" fill="#05080d"/>
-  <rect width="1200" height="650" rx="12" fill="url(#scan)"/>
+  <rect width="1200" height="900" rx="12" fill="#05080d"/>
+  <rect width="1200" height="900" rx="12" fill="url(#scan)"/>
+
+  <!-- Unified profile header -->
+  <rect class="panel" x="12" y="12" width="1176" height="226" rx="6"/>
+  <text class="mono lime tiny" x="24" y="34">+</text><text class="mono lime tiny" x="1170" y="34">+</text>
+  <text class="mono cyan" x="48" y="62" font-size="24" font-weight="700">Hey, I'm Mostafa Medhat 👨‍💻</text>
+  <text class="mono white" x="48" y="96" font-size="17">Full Stack Developer building scalable, maintainable software.</text>
+  <text class="mono white" x="48" y="126" font-size="17">Specialized in ASP.NET Core, Angular, TypeScript &amp; SQL Server.</text>
+  <text class="mono amber" x="48" y="164" font-size="16">●</text><text class="mono white" x="70" y="164" font-size="16">Clean Architecture · REST APIs · System Integration</text>
+  <text class="mono lime" x="48" y="196" font-size="16">●</text><text class="mono white" x="70" y="196" font-size="16">Open to collaboration and ambitious products</text>
+
+  <rect x="780" y="38" width="374" height="172" rx="22" fill="#0a66c2"/>
+  <rect x="780" y="38" width="374" height="172" rx="22" fill="url(#scan)"/>
+  <text x="814" y="82" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#fff">Linked</text>
+  <rect x="910" y="56" width="39" height="32" rx="4" fill="#fff"/><text x="916" y="82" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#0a66c2">in</text>
+  <text class="mono white" x="814" y="126" font-size="21" font-weight="700">Let's connect &amp;</text>
+  <text class="mono cyan" x="814" y="153" font-size="20" font-weight="700">build something great</text>
+  <circle cx="832" cy="181" r="15" fill="#fff"/><text x="825" y="187" font-family="Arial" font-size="20" font-weight="700" fill="#0a66c2">↗</text>
+  <text class="mono white" x="858" y="187" font-size="13">mostafamedhat-dev</text>
+
+  <g transform="translate(0 250)">
 
   <!-- ASCII mascot panel -->
   <rect class="panel" x="12" y="12" width="400" height="410" rx="6"/>
@@ -98,5 +118,6 @@
     <g transform="translate(786 562)"><rect width="108" height="48" rx="12" fill="#cc2927"/><text class="white" x="54" y="31" font-size="18">SQL</text></g>
     <g transform="translate(906 562)"><rect width="108" height="48" rx="12" fill="#2496ed"/><text class="white" x="54" y="31" font-size="18">Docker</text></g>
     <g transform="translate(1026 562)"><rect width="108" height="48" rx="12" fill="#f05032"/><text class="white" x="54" y="31" font-size="18">Git</text></g>
+  </g>
   </g>
 </svg>
