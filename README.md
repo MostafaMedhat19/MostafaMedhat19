@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td width="66%" valign="middle">
+    <td width="58%" valign="middle">
       <h3>Hey, I'm Mostafa 👨‍💻</h3>
       <p>I'm a software developer specializing in <b>.NET backend development</b>. I enjoy turning real-world requirements into clean, maintainable, and scalable applications.</p>
       <ul>
@@ -27,9 +27,9 @@
         <li>💬 Ask me about .NET, backend architecture, or clean code</li>
       </ul>
     </td>
-    <td width="34%" align="center" valign="middle">
+    <td width="42%" align="center" valign="middle">
       <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-        <img src="./assets/linkedin-card.png" width="360" alt="Connect with Mostafa Medhat on LinkedIn" />
+        <img src="./assets/linkedin-card.png" width="430" alt="Connect with Mostafa Medhat on LinkedIn" />
       </a>
     </td>
   </tr>
