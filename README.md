@@ -115,9 +115,9 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
   <h3>LET'S BUILD SOMETHING GREAT</h3>
   <p>Have an idea, an opportunity, or just want to talk tech? Let's connect.</p>
 
-  <a href="https://www.linkedin.com/in/mostafamedhat-dev"><img src="./assets/contact-linkedin.svg?v=2" width="230" alt="Connect with Mostafa Medhat on LinkedIn" /></a>&nbsp;
-  <a href="mailto:mostafamedhat.0522019@gmail.com"><img src="./assets/contact-email.svg?v=2" width="230" alt="Send an email to Mostafa Medhat" /></a>&nbsp;
-  <a href="https://github.com/MostafaMedhat19"><img src="./assets/contact-github.svg?v=2" width="230" alt="Visit Mostafa Medhat on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mostafamedhat-dev"><img src="./assets/contact-linkedin-blue.svg" width="230" alt="Connect with Mostafa Medhat on LinkedIn" /></a>&nbsp;
+  <a href="mailto:mostafamedhat.0522019@gmail.com"><img src="./assets/contact-email-blue.svg" width="230" alt="Send an email to Mostafa Medhat" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19"><img src="./assets/contact-github-blue.svg" width="230" alt="Visit Mostafa Medhat on GitHub" /></a>
 
   <br /><br />
 
