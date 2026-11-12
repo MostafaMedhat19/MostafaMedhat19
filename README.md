@@ -26,7 +26,7 @@ I'm a software developer specializing in **.NET backend development**. I enjoy t
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafamedhat-dev" target="_blank">
-    <img src="./assets/linkedin-card.png" width="720" alt="Connect with Mostafa Medhat on LinkedIn" />
+    <img src="./assets/linkedin-card.png" width="620" alt="Connect with Mostafa Medhat on LinkedIn" />
   </a>
 </p>
 
