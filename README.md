@@ -79,5 +79,5 @@
 
   <br /><br />
 
-  <img src="./assets/thank-you-footer-v2.png" width="100%" alt="Thank you — Mostafa's mascot escaping from the footer" />
+  <img src="./assets/thank-you-footer-v3.png" width="100%" alt="Thank you — Mostafa's mascot escaping from the footer" />
 </div>
