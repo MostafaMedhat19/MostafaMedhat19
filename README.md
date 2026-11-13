@@ -79,5 +79,9 @@
 
   <br /><br />
 
+  <a href="https://github.com/MostafaMedhat19/MostafaMedhat19"><img src="./assets/star-me-badge-gold.svg" width="230" alt="Star Mostafa Medhat's GitHub profile repository" /></a>
+
+  <br /><br />
+
   <img src="./assets/thank-you-footer-v3.webp" width="100%" alt="Thank you — Mostafa's mascot escaping from the footer" />
 </div>
