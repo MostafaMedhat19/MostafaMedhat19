@@ -41,12 +41,12 @@
 
   <h3>GitHub Analytics</h3>
 
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MostafaMedhat19&theme=blueberry" alt="Mostafa's GitHub activity overview" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's GitHub activity overview" />
 
   <br />
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaMedhat19&theme=blueberry" alt="Mostafa's GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaMedhat19&theme=blueberry" alt="Mostafa's most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MostafaMedhat19&theme=github_dark" alt="Mostafa's most used languages" />
 
 </div>
 
