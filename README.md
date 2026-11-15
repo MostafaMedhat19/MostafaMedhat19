@@ -20,28 +20,33 @@
 
 ## `> featured --open-source`
 
-<div align="center">
-
-  <h2>Eye Voice</h2>
-  <p><strong>Communication beyond touch — an open-source, gaze-controlled assistive communication experience.</strong></p>
-
-  <a href="https://mostafamedhat19.github.io/EyeTracking/">
-    <img src="https://raw.githubusercontent.com/MostafaMedhat19/EyeTracking/main/assets/eye-voice-demo.gif" width="100%" alt="Eye Voice demo showing real-time gaze tracking and eye-controlled quick-word navigation" />
-  </a>
-
-  <p>
-    Eye Voice turns a standard webcam into an accessible communication interface. It tracks gaze direction in real time, supports dwell-based selection, and helps users build and speak messages without a mouse, keyboard, or touch.
-  </p>
-
-  <p>
-    <a href="https://mostafamedhat19.github.io/EyeTracking/"><strong>Launch Live Demo</strong></a>
-    &nbsp;•&nbsp;
-    <a href="https://github.com/MostafaMedhat19/EyeTracking"><strong>View Repository</strong></a>
-    &nbsp;•&nbsp;
-    <a href="https://github.com/MostafaMedhat19/EyeTracking/blob/main/CONTRIBUTING.md"><strong>Contribute</strong></a>
-  </p>
-
-</div>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <h1>Eye Voice</h1>
+    </td>
+  </tr>
+  <tr>
+    <td width="54%" align="center">
+      <a href="https://mostafamedhat19.github.io/EyeTracking/">
+        <img src="https://raw.githubusercontent.com/MostafaMedhat19/EyeTracking/main/assets/eye-voice-demo.gif" width="100%" alt="Eye Voice demo showing real-time gaze tracking and eye-controlled quick-word navigation" />
+      </a>
+    </td>
+    <td width="46%" align="center">
+      <p><strong>Communication beyond touch — an open-source, gaze-controlled assistive communication experience.</strong></p>
+      <br />
+      <p>Eye Voice turns a standard webcam into an accessible communication interface. It tracks gaze direction in real time, supports dwell-based selection, and helps users build and speak messages without a mouse, keyboard, or touch.</p>
+      <br />
+      <p>
+        <a href="https://mostafamedhat19.github.io/EyeTracking/"><strong>Launch Live Demo</strong></a>
+        &nbsp;•&nbsp;
+        <a href="https://github.com/MostafaMedhat19/EyeTracking"><strong>View Repository</strong></a>
+        &nbsp;•&nbsp;
+        <a href="https://github.com/MostafaMedhat19/EyeTracking/blob/main/CONTRIBUTING.md"><strong>Contribute</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## `> building --with-purpose`
 
