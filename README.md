@@ -29,13 +29,13 @@
   <tr>
     <td width="54%" align="center">
       <a href="https://mostafamedhat19.github.io/EyeTracking/">
-        <img src="https://raw.githubusercontent.com/MostafaMedhat19/EyeTracking/main/assets/eye-voice-demo.gif" width="100%" alt="Eye Voice demo showing real-time gaze tracking and eye-controlled quick-word navigation" />
+        <img src="https://raw.githubusercontent.com/MostafaMedhat19/EyeTracking/main/assets/eye-voice-demo.gif" width="100%" alt="Eye Voice prototype demo showing real-time gaze tracking and eye-controlled quick-word navigation" />
       </a>
     </td>
     <td width="46%" align="center">
       <p><strong>Communication beyond touch — an open-source, gaze-controlled assistive communication experience.</strong></p>
       <br />
-      <p>Eye Voice turns a standard webcam into an accessible communication interface. It tracks gaze direction in real time, supports dwell-based selection, and helps users build and speak messages without a mouse, keyboard, or touch.</p>
+      <p>Eye Voice is an experimental assistive-communication prototype that uses a standard webcam, gaze tracking, and dwell-based selection to help users build and speak messages without a mouse, keyboard, or touch. Performance depends on calibration, camera quality, lighting, positioning, and individual usage conditions.</p>
       <br />
       <p>
         <a href="https://mostafamedhat19.github.io/EyeTracking/"><strong>Launch Live Demo</strong></a>
@@ -117,7 +117,7 @@ I build full-stack products with **ASP.NET Core, Angular, and SQL Server**, focu
 
   <br /><br />
 
-  <a href="https://github.com/MostafaMedhat19?tab=followers"><img src="./assets/follow-me-badge-gold.svg" width="230" alt="Follow Mostafa Medhat on GitHub" /></a>&nbsp;
+  <a href="https://github.com/MostafaMedhat19"><img src="./assets/follow-me-badge-gold.svg" width="230" alt="Visit Mostafa Medhat's GitHub profile to follow him" /></a>&nbsp;
   <a href="https://github.com/MostafaMedhat19/MostafaMedhat19"><img src="./assets/star-me-badge-gold.svg" width="230" alt="Star Mostafa Medhat's GitHub profile repository" /></a>
 
   <br /><br />
