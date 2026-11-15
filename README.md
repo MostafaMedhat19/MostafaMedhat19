@@ -112,8 +112,7 @@ I build full-stack products with **ASP.NET Core, Angular, and SQL Server**, focu
 
   <br /><br />
 
-  <a href="https://github.com/MostafaMedhat19?tab=followers"><strong>Follow Mostafa on GitHub</strong></a>
-  &nbsp;•&nbsp;
+  <a href="https://github.com/MostafaMedhat19?tab=followers"><img src="./assets/follow-me-badge-gold.svg" width="230" alt="Follow Mostafa Medhat on GitHub" /></a>&nbsp;
   <a href="https://github.com/MostafaMedhat19/MostafaMedhat19"><img src="./assets/star-me-badge-gold.svg" width="230" alt="Star Mostafa Medhat's GitHub profile repository" /></a>
 
   <br /><br />
